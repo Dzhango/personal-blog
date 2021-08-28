@@ -1,11 +1,22 @@
 .container {
-  min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: auto;
+  max-width: 312px;
+  margin: 1em auto ;
+}
+
+.textContainer {
+  width: 50%;
+  margin: 1em auto;
+}
+
+.textItem {
+  line-height: 1.5em;
+  font-size: 1em;
 }
 
 .main {
