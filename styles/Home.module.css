@@ -6,7 +6,8 @@
   align-items: center;
   height: auto;
   max-width: 312px;
-  margin: 1em auto ;
+  margin: 1em auto;
+  color: #2f89e4;
 }
 
 .textContainer {
@@ -19,7 +20,11 @@
   font-size: 1em;
 }
 
-.main {
+.paragraph {
+  font-weight: 700;
+}
+
+/* .main {
   padding: 5rem 0;
   flex: 1;
   display: flex;
@@ -129,4 +134,4 @@
     width: 100%;
     flex-direction: column;
   }
-}
+} */

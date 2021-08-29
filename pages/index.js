@@ -14,12 +14,12 @@ export default function Home() {
       </Head>
       <div className={styles.container}>
       <Image src={profilePic} alt="Picture of the author" />
-      <h4> Hey there, I am Dzhangir </h4>
+      <h3> <strong>Hey there, I am Dzhangir.</strong></h3>
       </div>
       <div className={styles.textContainer}>
-          <p className={styles.textItem}> I am a Software Engineer residing in Seattle, Washington. I spend my day time developing distributed Big Data applications at Amazon Inc. and evenings tinkering with my personal ML / Web projects.</p>
-          <p className={styles.textItem}><span>Personal:</span> I use product strategy and systems thinking to develop scalable, reliable, resilient, frugal and efficient applications that delights customers. I am interested in all things technology, software engineering and product and read and write about these topics. Say hi to me on Twitter or Linkedin!</p>
-          <p className={styles.textItem}> <span>Work:</span> I am a Software Engineer residing in Seattle, Washington. I spend my day time developing distributed Big Data applications at Amazon Inc. and evenings tinkering with my personal ML / Web projects.</p>
+          <p className={styles.textItem}> I am a 3rd year computer science student, residing in San Diego, CA. I am an aspiring software engineer, currently working on web development projects.</p>
+          <p className={styles.textItem}><span className={styles.paragraph}>Personal:</span> I am interested in all things technology, from AI research and data analytics to software engineering and product development.</p>
+          <p className={styles.textItem}> <span className={styles.paragraph}>Work:</span> I am currently seeking software engineering internships for Summer 2022. I am willing to relocate anywhere in the US.  </p>
           <p className={styles.textItem}> Thank you for visiting my website, I am happy to see you here.</p>
       </div>
     </>
