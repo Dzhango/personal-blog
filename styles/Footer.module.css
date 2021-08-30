@@ -2,6 +2,9 @@
     padding: 2em;
     font-style: italic;
     text-decoration: underline;
+    position: absolute;
+    color: #E0E0E0;
+    bottom: 0;
 }
 
 .footer a {
