@@ -33,17 +33,17 @@ const Navbar = () => {
             <nav className={styles.links}>
                 <ul className={styles.linkMenu}>
                     <li className={styles.icon}>
-                        <a href="#">
+                        <a href="https://github.com/Dzhango">
                             <FontAwesomeIcon icon={faGithub} size="lg"/>
                         </a>
                     </li>
                     <li className={styles.icon}>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/dbayanda/">
                             <FontAwesomeIcon icon={faLinkedin} size="lg"/>
                         </a>
                     </li>
                     <li className={styles.icon}>
-                        <a href="#">
+                        <a href="https://www.facebook.com/dzhangir.bayandarov/">
                             <FontAwesomeIcon icon={faFacebook} size="lg"/>
                         </a>
                     </li>

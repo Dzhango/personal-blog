@@ -24,7 +24,7 @@ export default function Projects() {
       <div className={styles.content}>
         <h2>Uptone</h2>
         <div className={styles.images}>
-          <Image src={uptone} alt="uptone page " />
+          <Image src={uptone} alt="uptone page" />
         </div>
         <p className={styles.desc}>Uptone is a consumer-media mobile startup being built for transforming monotonous content consumption into a fun and engaging experience.
         I have contributed to the implementation of the voice control part of the application. Utilizing AWS Transcribe API, I used the EXPO native voice recordings to control the
@@ -33,7 +33,7 @@ export default function Projects() {
         </p>
         <h2>Smart Goal Collector</h2>
         <div className={styles.images}>
-          <Image src={homepage} alt="home page " />
+          <Image src={homepage} alt="home page" />
           <Image src={loginpage} alt="login page" />
         </div>
         <p className={styles.desc}>This is a goal-sharing platform, users can register and create/share their goals libararies. I have used the MERN stack, and implemented authentication with express and JWT. This was my first big CRUD project,
