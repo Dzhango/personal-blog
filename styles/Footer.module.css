@@ -2,7 +2,7 @@
     padding: 2em;
     font-style: italic;
     text-decoration: underline;
-    position: absolute;
+    position: relative;
     color: #E0E0E0;
     bottom: 0;
 }
