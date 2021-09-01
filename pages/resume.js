@@ -10,7 +10,7 @@ const resume = () => {
                 <link rel="icon" href="/leopard.ico" />
             </Head>
             <div className={styles.container}>
-                <h3> Download it here: <a href="https://drive.google.com/file/d/1IC4fipZq1_wiglAtZhbMS834UapdMfdU/view?usp=sharing">Resume</a> </h3>
+                <h3> Download it here: <a href="https://drive.google.com/file/d/1AFeqCh9Od6t8u57zFt9zxSQFvOEZO1Oq/view?usp=sharing">Resume</a> </h3>
                 <p>I am currently seeking software engineering internships for Summer 2022. I am willing to relocate anywhere in the US.</p>
             </div> 
         </>
