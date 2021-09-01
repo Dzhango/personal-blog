@@ -60,9 +60,10 @@ export default function Projects() {
         </div>
         <div className={styles.text}>
           <ul>
-            <li><span>Huffman Encoder</span> is a compression program that can take a large DNA sequence and securely compress it.</li>
-            <li><span>Pokemon Battle Simulator</span>, gives you a set of pokemon to pick and to battle. You can go into wild mode, to capture other pokemons, which can be risky.
-            It's a java based text game that emphasizes Java generics and some important JVL data structures. 
+            <li><span>Huffman Compressor</span> is a compression program that can take a large text file and securely compress it.</li>I utilized an efficient algorithm for 
+            header composition which more than double the speed of compression.
+            <li><span>Pokemon Battle Simulator</span> is a java based text game that emphasizes Java generics and some important JVL data structures. 
+            The game provides you with a set of pokemon to pick and to battle. You can go into wild mode, to capture other pokemon, which can be risky :)
             </li>
           </ul>
         </div>
